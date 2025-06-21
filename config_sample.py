@@ -1,8 +1,8 @@
 # REQUIRED CONFIG
-BOT_TOKEN = ""
-OWNER_ID = 0
-TELEGRAM_API = 0
-TELEGRAM_HASH = ""
+BOT_TOKEN = "5598702106:AAEqM5FbRWN1JNIVuEUSAsVXzVXE0y6oJ4Y"
+OWNER_ID = 1491913883
+TELEGRAM_API = 7851526
+TELEGRAM_HASH = "93ba4db0ad662e558356871afe8ca6de"
 
 # Recommended for persisting settings, RSS feeds, and task history. Essential for some features.
 DATABASE_URL = ""
